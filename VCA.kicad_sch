@@ -1108,7 +1108,7 @@
     (uuid fff4f834-ba9f-47df-b41f-b2cc0a6eed60)
   )
 
-  (text "GAIN\n" (at 44.45 114.3 0)
+  (text "GAIN1\n" (at 44.45 114.3 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0b62254e-662b-4291-9b34-0ac1d682b4f2)
   )
